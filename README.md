@@ -1,2 +1,3 @@
 # docker-snes
-docekr image for snes(noVNC)
+docekr image for ppsspp(noVNC)
+no support audio
